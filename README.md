@@ -1,2 +1,1 @@
-# ARZ_SH3LL
-Ngehek
+# Logger ni suw
